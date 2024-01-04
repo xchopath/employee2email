@@ -1,2 +1,2 @@
-# linkedemployee2email
+# employee2email
 Get company employees via Linkedin to generate email list.
