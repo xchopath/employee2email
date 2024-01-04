@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import json
 import time
 
-company_linkedin = "https://www.linkedin.com/company/pt.-mitra-integrasi-informatika"
-organization_domain = 'mii.co.id'
+company_linkedin = "https://www.linkedin.com/company/google"
+organization_domain = 'google.com'
 email = "<your-linkedin-email>"
 password = "<password>"
 
